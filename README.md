@@ -7,9 +7,7 @@ This repository contains a Power BI dashboard built using student course data. I
 - Completion status using slicers
 - Bar and pie chart representations
 
-## 📂 Files Included
-- `StudentCourseDetails.pbix` – Power BI dashboard file
-- *(Add Excel or CSV file if available)*
+  
 
 ## 🖼️ Preview
 ![image](https://github.com/user-attachments/assets/d64e5246-bae4-4c29-8640-63f7bb145085)
@@ -22,5 +20,5 @@ This repository contains a Power BI dashboard built using student course data. I
 - Excel (for sample data)
 
 ## 👨‍💻 Author
-Dharani VK
+Dharani V K
 
